@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgs/header(invisible).png</file>
+        <file>imgs/header(visible).jpeg</file>
+    </qresource>
+</RCC>
