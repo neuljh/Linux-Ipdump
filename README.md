@@ -3,6 +3,20 @@
 # 程序可能含有部分bug,读者可以自行在源代码基础上修改完善！
 # 程序内容可能含有部分作者的个人信息，自用的情况注意可以删除或者修改为自己的信息！！！如果对您有帮助，希望可以star一下，就当是鼓励啦！！！
 
+# QT界面展示及运行
+
+![A%VWR$(B%6}4$EC0)(}(Y9J](https://github.com/neuljh/Linux-Ipdump/assets/132900799/2822e3cf-c013-4501-ae77-83d97565699c)
+
+![image](https://github.com/neuljh/Linux-Ipdump/assets/132900799/606acccd-21e3-42b0-958d-3f10cfd53525)
+
+![image](https://github.com/neuljh/Linux-Ipdump/assets/132900799/321e12fa-339c-4898-b12b-842d56794faf)
+
+![image](https://github.com/neuljh/Linux-Ipdump/assets/132900799/48efe675-4e0c-45c1-91ee-2533644c5c00)
+
+![image](https://github.com/neuljh/Linux-Ipdump/assets/132900799/6ba2e048-44ed-420c-8fd9-d9089cbbbfc1)
+
+
+# 命令行测试
 (1)编译源文件
 
 ![image](https://github.com/neuljh/Linux-Ipdump/assets/132900799/5618f603-a050-4d55-93ae-24392a17bde8)
